@@ -10,4 +10,4 @@
 - Airports have unique IDs and names.
 - Airlines have pilots, and each pilot has a level of experience.
 - An aircraft type may need a certain number of pilots.
-![](https://github.com/FatihErisen/Zoo-Management/blob/main/UML%20class.png)
+![](https://github.com/FatihErisen/Flight-Management-System/blob/main/UML%20class%20(1).png)
